@@ -1,0 +1,40 @@
+I PRP I I 1 X X 1
+love VBP love love 0 xxxx x 1
+Canada NNP Canada Canada 1 Xxxxxx Xx 1
+. . . . 0 O O 2
+
+It PRP it It 1 Xx Xx 1
+is VBZ be is 0 xx x 1
+a DT a a 0 x x 1
+nice JJ nice nice 0 xxxx x 1
+country NN country country 0 xxxxxxx x 1
+. . . . 0 O O 2
+
+Sam NNP Sam Sam 1 Xxx Xx 1
+and CC and and 0 xxx x 1
+I PRP I I 1 X X 1
+are VBP be are 0 xxx x 1
+planning VBG plan planning 0 xxxxxxxx x 1
+to TO to to 0 xx x 1
+go VB go go 0 xx x 1
+there RB there there 0 xxxxx x 1
+again RB again again 0 xxxxx x 1
+. . . . 0 O O 2
+
+Niagara NNP Niagara Niagara 1 Xxxxxxx Xx 1
+falls VBZ fall falls 0 xxxxx x 1
+is VBZ be is 0 xx x 1
+amaz8ing-op NN amaz8ing-op amaz8ing-op 0 xxxx0xxxOxx x0xOx 3
+'s POS 's 's 0 Ox Ox 3
+. . . . 0 O O 2
+
+It PRP it It 1 Xx Xx 1
+is VBZ be is 0 xx x 1
+a DT a a 0 x x 1
+once RB once once 0 xxxx x 1
+in IN in in 0 xx x 1
+a DT a a 0 x x 1
+lifetime NN lifetime lifetime 0 xxxxxxxx x 1
+scenery NN scenery scenery 0 xxxxxxx x 1
+. . . . 0 O O 2
+
